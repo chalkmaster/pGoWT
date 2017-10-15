@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="p18" size="1.000000 0.464757" />
+    <ImageTarget name="p16" size="1.000000 0.684174" />
+    <ImageTarget name="p13" size="1.000000 1.497715" />
+    <ImageTarget name="p10" size="1.000000 1.336250" />
+    <ImageTarget name="p9" size="1.000000 0.732221" />
+    <ImageTarget name="p4" size="1.000000 0.456987" />
+    <ImageTarget name="p3" size="1.000000 0.470509" />
+    <ImageTarget name="s12" size="1.000000 1.343776" />
+    <ImageTarget name="s11" size="1.000000 1.501125" />
+    <ImageTarget name="s10" size="1.000000 1.547262" />
+    <ImageTarget name="s9" size="1.000000 0.375028" />
+    <ImageTarget name="s7" size="1.000000 0.191008" />
+    <ImageTarget name="s6" size="1.000000 1.514570" />
+    <ImageTarget name="s5" size="1.000000 1.524254" />
+    <ImageTarget name="s3" size="1.000000 1.602893" />
+    <ImageTarget name="s2" size="1.000000 1.436029" />
+    <ImageTarget name="s1" size="1.000000 0.417630" />
+    <ImageTarget name="p7" size="1.000000 0.459393" />
+    <ImageTarget name="p6" size="1.000000 0.466979" />
+    <ImageTarget name="i6" size="1.000000 0.534833" />
+    <ImageTarget name="i3" size="1.000000 0.496493" />
+    <ImageTarget name="f10" size="1.000000 0.263708" />
+    <ImageTarget name="f5" size="1.000000 0.456693" />
+    <ImageTarget name="f4" size="1.000000 0.488117" />
+    <ImageTarget name="f3" size="1.000000 0.309313" />
+    <ImageTarget name="c12" size="1.000000 1.793327" />
+    <ImageTarget name="c9" size="1.000000 0.733800" />
+    <ImageTarget name="c5" size="1.000000 1.170890" />
+    <ImageTarget name="c3" size="1.000000 0.322363" />
+    <ImageTarget name="m1" size="1.000000 0.423268" />
+    <ImageTarget name="f11" size="1.000000 0.354818" />
+    <ImageTarget name="p17" size="1.000000 1.001238" />
+    <ImageTarget name="p15" size="1.000000 0.713640" />
+    <ImageTarget name="p12" size="1.000000 0.477915" />
+    <ImageTarget name="p8" size="1.000000 0.472916" />
+    <ImageTarget name="c7" size="1.000000 0.733039" />
+    <ImageTarget name="ex1" size="1.000000 1.639656" />
+    <ImageTarget name="p11" size="1.000000 0.485409" />
+    <ImageTarget name="c10" size="1.000000 0.711057" />
+    <ImageTarget name="c8" size="1.000000 0.669926" />
+    <ImageTarget name="s4" size="1.000000 1.558811" />
+    <ImageTarget name="f1" size="1.000000 0.306265" />
+    <ImageTarget name="c2" size="1.000000 0.321304" />
+    <ImageTarget name="p5" size="1.000000 0.396734" />
+  </Tracking>
+</QCARConfig>
